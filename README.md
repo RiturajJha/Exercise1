@@ -1,2 +1,2 @@
 # Exercise1
-Q1.1
+A program to print simple mathematical operations
